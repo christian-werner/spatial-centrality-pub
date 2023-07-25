@@ -1,0 +1,7 @@
+networkx >= 3.1
+pandas >= 1.4.1
+geopandas >= 0.12.2
+scipy >= 1.10.1
+numpy >= 1.24.2
+shapely >= 2.0.1
+momepy >= 0.5.4
