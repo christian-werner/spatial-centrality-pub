@@ -2,8 +2,6 @@ import geopandas as gpd
 import pandas as pd
 import os
 
-ROUTING_FACTOR = 4
-
 cols_static = ["edge_id", "osm_id", "length", "geometry"]
 cols_dir = ["access_bicycle", "access_pedestrian", "index_bike", "index_walk"]
 
