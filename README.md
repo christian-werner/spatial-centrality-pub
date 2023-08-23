@@ -5,7 +5,7 @@ The code provided in this repository shows an exemplary implementation of spatia
 ## Abstract
 Centrality metrics are essential to network analysis. They reveal important morphological properties of networks, indicating e.g. node or edge importance. Applications are manifold, ranging from biology to transport planning. However, while being commonly applied in spatial contexts such as urban analytics, the implications of the spatial configuration of network elements on these metrics are widely neglected. As a consequence, a systematic bias is introduced into spatial network analyses. When applied to real-world problems, unintended side effects and wrong conclusions might be the result. In this paper, we assess the impact of node density on betweenness centrality. Furthermore, we propose a method for computing spatially normalised betweenness centrality. We apply it to a theoretical case as well as real-world transport networks. Results show that spatial normalisation mitigates the prevalent bias of node density.
 
-You find the **original GIScience publication** at: 
+You find the **original GIScience publication** at (expected release: 2023-09-11): 
 
 https://doi.org/10.4230/LIPIcs.GIScience.2023.83
 
